@@ -12,5 +12,6 @@ h1{letter-spacing:50px}
 -  🐍I’m looking to collaborate on any Python project. 
 - 🌐 I’m looking for help with expanding my developer network. I want to collaborate and find others interested and invested in expanding their knowledege also I would love to work on projects!
 - 🃏 Fun facts: I spend a lot of time reading and playing chess(I'm not that good). I love to travel and I want to study abroad in china. I enjoy watching films and trying new restaraunts.
+- 🏴‍☠️HackerRank Hackathon Finalist
 
 <img src="Hei photo/Hei.jpg">
